@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Debbie Natalia Ante Ramírez
+Nombre: Tu nombre y Dos apellidos
 
-Curso: 1DAW
+Curso: 1DAW o 2DAW
 
-Email: debbienatalia.ante@alumno.iesluisvives.org
+Email: tu email de IES Luis Vives o EducaMadrid
 
-Nick GitHub: debbyenatalia-collab
+Nick GitHub: Tu nick de GitHub
 
